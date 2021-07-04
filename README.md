@@ -2,7 +2,7 @@
 Playlist maker created using the youtube-dl repo and tkinter module
 
 ## Demo
-![](Playlist-maker.gif)
+![](Playlist-maker-demo.gif)
 
 ## Steps
 1. Create a file with the desired song names written in the following format: [ARTIST]-[SONG_TITLE]
